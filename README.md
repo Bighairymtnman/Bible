@@ -30,3 +30,12 @@ The goal of this app is to provide a beautiful and distraction-free experience f
 ## Download
 [Download Latest Release](https://github.com/Bighairymtnman/Bible/releases/latest)
 
+## Screenshots
+
+<img src="./screenshots/1.jpg" alt="Screenshot 1" width="300">
+
+<img src="./screenshots/2.jpg" alt="Screenshot 2" width="300">
+
+<img src="./screenshots/3.jpg" alt="Screenshot 3" width="300">
+
+
