@@ -32,7 +32,7 @@ The goal of this app is to provide a beautiful and distraction-free experience f
 
 ## Screenshots
 
-<img src="./screenshots/1.png" alt="Screenshot 1" width="300">
+<img src="./screenshots/1.png" alt="Screenshot 1" width="500">
 
 <img src="./screenshots/2.png" alt="Screenshot 2" width="300">
 
