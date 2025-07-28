@@ -6,7 +6,7 @@ A simple, clean, and modern desktop application for focused Bible study and read
 
 ## About The Project
 
-The goal of this app is to provide a beautiful and distraction-free experience for reading and studying the Word of God. It is built with web technologies and packaged as a cross-platform desktop application using Electron.
+The goal of this app is to provide a simple and distraction-free experience for reading and studying the Word of God. It is built with web technologies and packaged as a cross-platform desktop application using Electron.
 
 ## Features
 
