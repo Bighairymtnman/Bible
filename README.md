@@ -1,6 +1,6 @@
 # Bible App
 
-<img src="./screenshots/icon.png" alt="Budget Tracker Icon" width="200" height="200">
+<img src="./screenshots/256x256.png" alt="Bible" width="200" height="200">
 
 A simple, clean, and modern desktop application for focused Bible study and reading.
 
