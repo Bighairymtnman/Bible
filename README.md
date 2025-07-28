@@ -39,3 +39,8 @@ The goal of this app is to provide a beautiful and distraction-free experience f
 <img src="./screenshots/3.png" alt="Screenshot 3" width="600">
 
 
+## Bible Data
+
+All Bible data has been obtained from here: https://github.com/scrollmapper/bible_databases/tree/master
+
+
