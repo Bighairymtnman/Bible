@@ -43,4 +43,8 @@ The goal of this app is to provide a simple and distraction-free experience for 
 
 All Bible data has been obtained from here: https://github.com/scrollmapper/bible_databases/tree/master
 
+## License
 
+© 2025 Andrew Nicastro. All rights reserved.
+
+This application is provided as-is for personal use. Redistribution, repackaging, or commercial use is strictly prohibited without explicit written permission from the author.
